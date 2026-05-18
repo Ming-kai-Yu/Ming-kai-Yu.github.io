@@ -12,7 +12,7 @@ I am a researcher in **applied mathematics** with expertise in stochastic filter
 I received my Ph.D. in Applied Mathematics from the
 [University of Maryland, Baltimore County](https://mathstat.umbc.edu/) in 2023,
 under the supervision of Dr. Muruhan Rathinam. I am currently a Program Manager
-and Researcher at the Melchizedek Education and Research Institute (https://MEERI.org), where I lead a STEM mentorship program.
+and Researcher at [MEERI.org] (https://www.MEERI.org), where I lead a STEM mentorship program.
 
 **I am actively seeking postdoctoral positions** in applied mathematics, computational biology, artificial intelligence or related areas, starting Fall 2026.
 
@@ -21,14 +21,14 @@ and Researcher at the Melchizedek Education and Research Institute (https://MEER
 - Stochastic filtering algorithms
 - State and parameter estimation in stochastic dynamical systems
 - Numerical analysis and scientific computing
-- Systems biology and compuatational biology
+- Systems biology and biological digital twins
 - Machine learning and Artificial Intelligence
 
 ## News
 
 - **April 2026** — Presented a poster at the CIMBRE Symposium:
   *Estimating Hidden Dynamics in Stochastic Reaction Networks from Partial Observations*
-- **March 2026** Judged stduent projects at regional science fairs.
+- **March 2026** Judged student projects at regional science fairs.
 - **January 2024** — Paper published in *Journal of Computational Physics*:
   *Stochastic Filtering of Reaction Networks Partially Observed in Time Snapshots*
 - **October 2022** — Talk at Mid-Atlantic Numerical Analysis Day
