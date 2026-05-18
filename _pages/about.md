@@ -12,7 +12,7 @@ I am a researcher in **applied mathematics** with expertise in stochastic filter
 I received my Ph.D. in Applied Mathematics from the
 [University of Maryland, Baltimore County](https://mathstat.umbc.edu/) in 2023,
 under the supervision of Dr. Muruhan Rathinam. I am currently a Program Manager
-and Researcher at [MEERI.org] (https://www.MEERI.org), where I lead a STEM mentorship program.
+and Researcher at [MEERI.org](https://www.MEERI.org), where I lead a STEM mentorship program.
 
 **I am actively seeking postdoctoral positions** in applied mathematics, computational biology, artificial intelligence or related areas, starting Fall 2026.
 
