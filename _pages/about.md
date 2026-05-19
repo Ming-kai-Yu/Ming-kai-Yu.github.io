@@ -28,7 +28,7 @@ and Researcher at [MEERI.org](https://www.MEERI.org), where I lead a STEM mentor
 
 - **April 2026** — Presented a poster at the CIMBRE Symposium:
   *Estimating Hidden Dynamics in Stochastic Reaction Networks from Partial Observations*
-- **March 2026** Judged student projects at regional science fairs.
+- **March 2026** — Judged student projects at regional science fairs.
 - **January 2024** — Paper published in *Journal of Computational Physics*:
   *Stochastic Filtering of Reaction Networks Partially Observed in Time Snapshots*
 - **October 2022** — Talk at Mid-Atlantic Numerical Analysis Day
