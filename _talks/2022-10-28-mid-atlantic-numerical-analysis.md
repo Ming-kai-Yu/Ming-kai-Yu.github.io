@@ -5,5 +5,5 @@ type: "Talk"
 permalink: /talks/2022-mid-atlantic-numerical-analysis
 venue: "Mid-Atlantic Numerical Analysis Day"
 date: 2022-10-28
-location: "Baltimore, MD"
+location: "Temple University in Philadelphia, PA"
 ---
