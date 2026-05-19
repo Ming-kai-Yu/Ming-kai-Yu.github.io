@@ -9,56 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (PDF)](/files/MingkaiYu_cv.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Applied Mathematics, University of Maryland, Baltimore County, 2023
+* B.S. in Mathematics, Shandong University, 2016
 
-Work experience
+Awards
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Outstanding Graduate Research in Mathematics, College of Natural and Mathematical Sciences, UMBC, Apr 2021
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Instructor of record for Precalculus, Calculus I, and Calculus II at UMBC (4 semesters, 2021–2024)
+* Eight years of experience as instructor, TA, and grader across multiple courses (Precalculus, Calculus I, II, III, Mathematical Analysis, Mathematical Modeling, Stochastic Processes) at UMBC (2016–2024)
+* Educator and mentor for Title I middle school students in project-based STEM learning, MEERI (2024–present)
+
+Professional Memberships
 ======
-* Currently signed in to 43 different slack teams
+* American Mathematical Society (AMS)
+* Society for Industrial and Applied Mathematics (SIAM)
+* Toastmasters International
