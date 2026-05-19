@@ -1,6 +1,7 @@
 ---
 title: "Stochastic Filtering of Reaction Networks Partially Observed in Time Snapshots"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-stochastic-filtering-time-snapshots
 excerpt: 'A new particle filtering algorithm (the targeting method) for stochastic reaction networks observed only at discrete time snapshots. Uses inhomogeneous Poisson proposals to enable exact interpolation between observations.'
 date: 2024-10-15
