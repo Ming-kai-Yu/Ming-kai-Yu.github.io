@@ -5,6 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
+- Instructor of record for Precalculus, Calculus I, and Calculus II at UMBC (4 semesters, 2021–2024)
+- Eight years of experience as instructor, TA, and grader across multiple courses (Precalculus, Calculus I, II, III, Mathematical Analysis, Mathematical Modeling, Stochastic Processes) at UMBC (2016–2024)
+- Educator and mentor for Title I middle school students in project-based STEM learning, MEERI (2024–present)
+
+---
+
 ## University of Maryland, Baltimore County
 
 ### Instructor of Record
