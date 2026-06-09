@@ -7,3 +7,5 @@ venue: "Sayas Numerics Day 2022"
 date: 2022-09-17
 location: "Baltimore, MD"
 ---
+
+[Download slides](/slides/StateParaEst_Slides_Sayas_Numerics_Day_2022.pdf)

@@ -9,3 +9,5 @@ location: "UMBC, Baltimore, MD"
 ---
 
 Poster presentation on particle filtering methods for stochastic reaction networks with partial state observations.
+
+[Download poster](/slides/MingkaiYu_Poster_InferHiddenDynamics_CIMBRE_04242026.pdf)
